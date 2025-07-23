@@ -1,0 +1,11 @@
+torch
+torchvision
+dask[complete]
+coiled
+zarr
+s3fs
+xarray
+pyproj
+numpy
+scikit-learn
+matplotlib
